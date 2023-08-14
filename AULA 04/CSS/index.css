@@ -1,8 +1,12 @@
 header {
-    background-color: pink;
+    background-color: #000000;
 }
 
 a {
-    color: black;
+    color: #FFFFFF;
     font-size: 20px;
+    font-family: "Fira Code", Arial, Helvetica, sans-serif, monospace;
+    font-weight: 500;
+    text-decoration: none;
+    margin-right: 30px;
 }
